@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h2{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: inherit;
+    font-size: 30px;
+    color: blue
+    ;
+}
+a:hover{
+    color: aqua;
+    font-size: 40px;
+    font-style:bold;
+}
